@@ -499,6 +499,23 @@ section {
   border: 2px solid #1f5297;
 }
 
+.resume .resume-item .google-b{
+  color: #4285F4;
+  font-weight: bold;
+}
+.resume .resume-item .google-r{
+  color: #DB4437;
+  font-weight: bold;
+}
+.resume .resume-item .google-y{
+  color: #F4B400;
+  font-weight: bold;
+}
+.resume .resume-item .google-g{
+  color: #0F9D58;
+  font-weight: bold;
+}
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
